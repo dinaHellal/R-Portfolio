@@ -1,7 +1,7 @@
 
 function Navbar() {
   return (
-    <header className="relative p-15">
+    <header className="relative p-15 scroll-smooth" id="Home">
       <div className="navbar bg-gray-950 ">
         <div className="container p-10 m-auto flex justify-between items-center flex-wrap text-white">
           <div className="logo text-3xl">

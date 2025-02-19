@@ -7,7 +7,7 @@ function Hero() {
           <p className=" text-l text-gray-900 mt-2">Freelancer Web Developer</p>
           <input type="submit" value="Hire Me" className="bg-gray-950 text-white pl-4 pr-4 pt-1 pb-1 mt-3 rounded-md" />
         </div>
-        <div class="user-image">
+        <div class="user-image lg:block">
           <img src="/user.webp" alt="user" />
         </div>
       </div>

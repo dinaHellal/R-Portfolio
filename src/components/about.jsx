@@ -2,8 +2,8 @@ import React from "react";
 
 function About() {
   return (
-    <section className="about">
-      <div className="container flex justify-center gap-20 p-20">
+    <section className="about scroll-smooth" id="About">
+      <div className="container flex justify-center flex-wrap gap-20 p-20">
         <div className="about-us">
           <h2 className="text-7xl font-medium text-gray-950 mt-3">About <br />Me</h2>
         </div>
