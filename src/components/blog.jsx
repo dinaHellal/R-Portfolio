@@ -3,9 +3,9 @@ function Blog() {
   return (
 
 <section class="blog p-20 ">
-<div class="container">
+<div class="container flex-wrap">
   <h2 className="text-5xl font-bold text-gray-950 mb-6 text-center">Blog</h2>
-  <div class="blogs-list flex flex-wrap gap-10 ml-40  ">
+  <div class="blogs-list flex flex-wrap gap-10 ml-40 lg:w-fit  md:w-full ">
     <div class="blog-item  flex bg-white border rounded-md w-96  ">
       <div class="blog-image  w-96 h-52 rounded-md bg-gray-600">
       </div>
